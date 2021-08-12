@@ -1,1 +1,6 @@
-
+ ---
+metadata:
+  domain: swdelivery
+  service: citool
+  project_key: TESTREPO01
+  project_name: test-repo-01
